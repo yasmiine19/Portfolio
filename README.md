@@ -25,7 +25,7 @@ Focus: **Web & App Development – Cybersecurity – Digital Consulting**
 
 ## 🚀 School Projects  
 
-### 🔹 [Bister Webapp](#)  
+### 🔹 [Bister Webapp](https://github.com/yasmiine19/Bister-Tasting-webapp)  
 👥 **Team project (6 students)** – school project for Bister (sauce company).  
 - Goal: manage tasting events & collect product feedback  
 - Features: user registration, rating system, admin dashboard with live charts (Chart.js)  
@@ -36,7 +36,7 @@ Focus: **Web & App Development – Cybersecurity – Digital Consulting**
   - Integrated Firebase with backend logic
     
 
-### 🔹 [Receptenboek App](#)  
+### 🔹 [Receptenboek App](https://github.com/yasmiine19/Receptenboek-kotlin-app)  
 👥 **Team project (school)** – Android application for recipe management.  
 - Goal: manage recipes (add, edit, browse) with persistence  
 - Features: CRUD for recipes, category browsing  
