@@ -9,7 +9,7 @@ Focus: **Web & App Development – Cybersecurity – Digital Consulting**
 
 ## 💼 Freelance Project
 
-### 🔹 [🌍 Mini-Europe Webapp](#)  
+### 🔹 [🌍 Mini-Europe Webapp](https://github.com/yasmiine19/mini-europe-webapp)  
 👩‍💻 **Independent freelance project** – developed individually for Mini-Europe (Brussels).  
 - **Goal**: replace paper-based visitor surveys with a digital solution, giving the marketing team real-time insights into visitor origins  
 - **Features**:  
