@@ -47,7 +47,7 @@ Focus: **Web & App Development – Cybersecurity – Digital Consulting**
   - Implemented recipe CRUD operations (create, read, update, delete)
  
 
-  ### 🔹 [Smog & Co App](#)  
+  ### 🔹 [Smog & Co App](https://github.com/yasmiine19/Smog-Co-project)  
 👥 **Team project for a real company (Smog & Co)** – school assignment in collaboration with an external client.  
 - Goal: develop a mobile application to monitor & visualize air quality data  
 - Features: user-friendly interface, data visualization, cloud integration  
@@ -71,7 +71,7 @@ Focus: **Web & App Development – Cybersecurity – Digital Consulting**
   - Assisted with frontend UI/UX in Vue.js
  
 
-  ### 🔹 [Fitness Management App](#)  
+  ### 🔹 [Fitness Management App](https://github.com/yasmiine19/FitnessApp-WPF)  
 👩‍💻 **Individual project (school)** – Desktop & admin application for managing a fitness center.  
 - Goal: allow customers to register & manage their activities, while providing an admin panel for the fitness staff to manage users and data  
 - Features:  
