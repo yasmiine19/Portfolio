@@ -47,7 +47,7 @@ Focus: **Web & App Development – Cybersecurity – Digital Consulting**
   - Implemented recipe CRUD operations (create, read, update, delete)
  
 
-  ### 🔹 [Smog & Co App](https://github.com/yasmiine19/Smog-Co-project)  
+ ### 🔹 [Smog & Co App](https://github.com/yasmiine19/Smog-Co-project)  
 👥 **Team project for a real company (Smog & Co)** – school assignment in collaboration with an external client.  
 - Goal: develop a mobile application to monitor & visualize air quality data  
 - Features: user-friendly interface, data visualization, cloud integration  
@@ -57,6 +57,21 @@ Focus: **Web & App Development – Cybersecurity – Digital Consulting**
   - Integrated Firebase for data storage and retrieval  
   - Assisted with visualization features for air quality data  
   - Communication with the client about requirements and feedback
+ 
+
+ ### 🔹 [Fitness Management App](https://github.com/yasmiine19/FitnessApp-WPF)  
+👩‍💻 **Individual project (school)** – Desktop & admin application for managing a fitness center.  
+- Goal: allow customers to register & manage their activities, while providing an admin panel for the fitness staff to manage users and data  
+- Features:  
+  - Customer app: registration, account management, view available trainings  
+  - Admin app: manage users, activities, and subscriptions  
+  - Database: handled via Docker & phpMyAdmin  
+- **Tech**: C#, WPF, Docker, MySQL, phpMyAdmin  
+- **My contribution**:  
+  - Built both the customer and admin applications in C# (WPF)  
+  - Designed and implemented the database using Docker & phpMyAdmin  
+  - Connected the frontends to the backend logic  
+  - Full-stack responsibility since it was an individual project  
 
 
   ### 🔹 [Recepten App](#)  
@@ -71,16 +86,4 @@ Focus: **Web & App Development – Cybersecurity – Digital Consulting**
   - Assisted with frontend UI/UX in Vue.js
  
 
-  ### 🔹 [Fitness Management App](https://github.com/yasmiine19/FitnessApp-WPF)  
-👩‍💻 **Individual project (school)** – Desktop & admin application for managing a fitness center.  
-- Goal: allow customers to register & manage their activities, while providing an admin panel for the fitness staff to manage users and data  
-- Features:  
-  - Customer app: registration, account management, view available trainings  
-  - Admin app: manage users, activities, and subscriptions  
-  - Database: handled via Docker & phpMyAdmin  
-- **Tech**: C#, WPF, Docker, MySQL, phpMyAdmin  
-- **My contribution**:  
-  - Built both the customer and admin applications in C# (WPF)  
-  - Designed and implemented the database using Docker & phpMyAdmin  
-  - Connected the frontends to the backend logic  
-  - Full-stack responsibility since it was an individual project  
+ 
